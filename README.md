@@ -7,6 +7,7 @@ steps to run:<br />
 -> run main.py <br />
 <br />
 
-link to video tutorial of the application : https://youtu.be/1WHPYtPR_64
+link to video tutorial of the application : https://youtu.be/1WHPYtPR_64 <br />
+<br />
 ![image](https://user-images.githubusercontent.com/75466140/183005895-714a853e-1214-4275-8496-b00148a703d4.png)
 
